@@ -29,7 +29,7 @@ namespace Dealership.Models
 
     // public void SetPrice(int newPrice)
     // {
-    //   _price = newPrice;
+    //   _price = newPrice
     // }
 
     public void SetSalePrice(int decimalDiscountRate)
